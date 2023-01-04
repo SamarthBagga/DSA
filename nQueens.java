@@ -62,8 +62,8 @@ public class nQueens {
                 System.out.println();
             }
         }
-        private static boolean isSafe(){
-        
-        }
+//        private static boolean isSafe(){
+//
+//        }
     }
 
